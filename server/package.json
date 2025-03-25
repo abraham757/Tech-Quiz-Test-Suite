@@ -23,6 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
+    "mern-server": "file:",
     "mongoose": "^8.4.1"
   },
   "devDependencies": {
